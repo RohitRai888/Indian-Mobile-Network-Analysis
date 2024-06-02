@@ -1,1 +1,3 @@
-# Indian-Mobile-Network-Analysis
+# Real-Time Voice Quality Assessment: Analyzing Indian Mobile Networks
+<br>
+This dataset captures real-time voice quality data from various mobile service providers across India, covering different locations and network types (3G, 4G, 2G). Collected over two distinct months, the data includes variables such as the operator's name, the environment (indoor, outdoor, or traveling), network type, rating, and call drop category. Geographical coordinates (latitude and longitude) are provided to pinpoint locations, though entries with invalid or blocked coordinates are marked with a null state name. This dataset enables the analysis of voice quality across different regions and network conditions, helping to identify performance trends and areas needing improvement.
